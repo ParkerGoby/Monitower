@@ -1,0 +1,8 @@
+{
+  "name": "watchtower",
+  "private": true,
+  "scripts": {
+    "dev": "make dev"
+  },
+  "packageManager": "pnpm@10.30.3"
+}
